@@ -1,0 +1,27 @@
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\bin\Debug\Projecto_Jogo2.exe.config
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\bin\Debug\Projecto_Jogo2.exe
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\bin\Debug\Projecto_Jogo2.pdb
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\bin\Debug\Projecto_Jogo2.xml
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.Resources.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.exe
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.xml
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.pdb
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.vbprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.Game_Colour.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmFaculdade.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmSobre.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmCidade.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmSimpleLife.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmMarginal.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmRestaurante.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmPrincipal.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmXO.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmInstrucao1.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmInstrucao2.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmInstrucao3.resources
+C:\Users\PC\Documents\FACULDADE\2 Ano\Programacao visual\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.frmLabirinto.resources
+C:\Users\Ayrton.DESKTOP-3AISI1E\Dropbox\Faculdade\2ano\Programacao Visual\Trabalho\Projecto_Jogo2\Projecto_Jogo2\bin\Debug\Projecto_Jogo2.exe.config
+C:\Users\Ayrton.DESKTOP-3AISI1E\Dropbox\Faculdade\2ano\Programacao Visual\Trabalho\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.exe
+C:\Users\Ayrton.DESKTOP-3AISI1E\Dropbox\Faculdade\2ano\Programacao Visual\Trabalho\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.xml
+C:\Users\Ayrton.DESKTOP-3AISI1E\Dropbox\Faculdade\2ano\Programacao Visual\Trabalho\Projecto_Jogo2\Projecto_Jogo2\obj\Debug\Projecto_Jogo2.pdb
